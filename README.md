@@ -1,7 +1,7 @@
 ## Project Overview:
 Atliq Grands seeks to enhance its market share and competitiveness through data analytics. By partnering with a third-party provider, the company aims to leverage data-driven insights to optimize revenue management and inform strategic decisions. This will enable Atliq Grands to regain its competitive edge in the luxury and business hotel market.
 
-- **Live Dashboard Link:** https://app.powerbi.com/view?r=eyJrIjoiYmMzOGNiODAtMDYzYi00NTQzLThjMjQtZDUwZTBhODkwMWJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+- **Live Dashboard Link:** https://app.powerbi.com/reportEmbed?reportId=2173a246-9b7f-481a-85b7-1d5ee6c90951&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4
 
 ## Problem Statement:
 AtliQ Grands, a renowned hospitality chain with two decades of experience in luxury and business hotels, has been facing challenges in maintaining its market share amidst increased competition. To address this, the company is seeking to leverage business and data intelligence to inform strategic decisionmaking and regain its competitive edge. Recognizing the need for specialized expertise, AtliQ Grands is exploring the
